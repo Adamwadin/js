@@ -35,3 +35,11 @@
 .images{
     width: 80%;
 }
+#inputLabel{
+    margin: 20px;
+    padding: 20px;
+}
+#sortOrder{
+    margin: 10px;
+    padding: 10px;
+}
